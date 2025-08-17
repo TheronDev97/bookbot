@@ -1,0 +1,4 @@
+books/
+
+#ignore /__pycache__ directory and the stats.cpython-312.pyc file
+__pycache__/ 
